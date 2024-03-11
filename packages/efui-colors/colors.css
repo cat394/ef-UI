@@ -35,43 +35,43 @@
 	--color-light-gray-p3: 0.98 0.97 0.98;
 	--color-whtie-p3: 0.98 0.97 0.98;
 
-	--color-light-red: color(display-p3 var(--light-red-p3));
-	--color-dark-red: color(display-p3 var(--dark-red-p3));
-	--color-red: color(display-p3 var(--red-p3));
-	--color-dark-rose: color(display-p3 var(--dark-rose-p3));
-	--color-rose: color(display-p3 var(--rose-p3));
-	--color-hard-pink: color(display-p3 var(--hard-pink-p3));
-	--color-light-pink: color(display-p3 var(--light-pink-p3));
-	--color-beige: color(display-p3 var(--beige-p3));
-	--color-light-beige: color(display-p3 var(--light-beige-p3));
-	--color-dark-soft-brown: color(display-p3 var(--dark-soft-brown-p3));
-	--color-brown: color(display-p3 var(--brown-p3));
-	--color-dark-navy: color(display-p3 var(--dark-navy-p3));
-	--color-soft-navy: color(display-p3 var(--soft-navy-p3));
-	--color-bright-light-blue: color(display-p3 var(--bright-light-blue-p3));
-	--color-light-blue: color(display-p3 var(--light-blue-p3));
-	--color-hard-light-blue: color(display-p3 var(--hard-light-blue-p3));
-	--color-blue: color(display-p3 var(--blue-p3));
-	--color-bright-dark-blue: color(display-p3 var(--bright-dark-blue-p3));
-	--color-hard-blue: color(display-p3 var(--hard-blue-p3));
-	--color-ultramarine-blue: color(display-p3 var(--ultramarine-blue-p3));
-	--color-green: color(display-p3 var(--green-p3));
-	--color-dark-green: color(display-p3 var(--dark-green-p3));
-	--color-bright-yellow: color(display-p3 var(--bright-yellow-p3));
-	--color-yellow: color(display-p3 var(--yellow-p3));
-	--color-hard-yellow: color(display-p3 var(--hard-yellow-p3));
-	--color-yellow-green: color(display-p3 var(--yellow-green-p3));
-	--color-purple: color(display-p3 var(--purple-p3));
-	--color-black: color(display-p3 var(--black-p3));
-	--color-hard-dark-gray: color(display-p3 var(--hard-dark-gray-p3));
-	--color-dark-gray: color(display-p3 var(--dark-gray-p3));
-	--color-soft-dark-gray: color(display-p3 var(--soft-dark-gray-p3));
+	--color-light-red: color(display-p3 var(--color-light-red-p3));
+	--color-dark-red: color(display-p3 var(--color-dark-red-p3));
+	--color-red: color(display-p3 var(--color-red-p3));
+	--color-dark-rose: color(display-p3 var(--color-dark-rose-p3));
+	--color-rose: color(display-p3 var(--color-rose-p3));
+	--color-hard-pink: color(display-p3 var(--color-hard-pink-p3));
+	--color-light-pink: color(display-p3 var(--lcolor-ight-pink-p3));
+	--color-beige: color(display-p3 var(--color-beige-p3));
+	--color-light-beige: color(display-p3 var(--color-light-beige-p3));
+	--color-dark-soft-brown: color(display-p3 var(--color-dark-soft-brown-p3));
+	--color-brown: color(display-p3 var(--color-brown-p3));
+	--color-dark-navy: color(display-p3 var(--color-dark-navy-p3));
+	--color-soft-navy: color(display-p3 var(--color-soft-navy-p3));
+	--color-bright-light-blue: color(display-p3 var(--color-bright-light-blue-p3));
+	--color-light-blue: color(display-p3 var(--color-light-blue-p3));
+	--color-hard-light-blue: color(display-p3 var(--color-hard-light-blue-p3));
+	--color-blue: color(display-p3 var(--color-blue-p3));
+	--color-bright-dark-blue: color(display-p3 var(--color-bright-dark-blue-p3));
+	--color-hard-blue: color(display-p3 var(--color-hard-blue-p3));
+	--color-ultramarine-blue: color(display-p3 var(--color-ultramarine-blue-p3));
+	--color-green: color(display-p3 var(--color-green-p3));
+	--color-dark-green: color(display-p3 var(--color-dark-green-p3));
+	--color-bright-yellow: color(display-p3 var(--color-bright-yellow-p3));
+	--color-yellow: color(display-p3 var(--color-yellow-p3));
+	--color-hard-yellow: color(display-p3 var(--color-hard-yellow-p3));
+	--color-yellow-green: color(display-p3 var(--color-yellow-green-p3));
+	--color-purple: color(display-p3 var(--color-purple-p3));
+	--color-black: color(display-p3 var(--color-black-p3));
+	--color-hard-dark-gray: color(display-p3 var(--color-hard-dark-gray-p3));
+	--color-dark-gray: color(display-p3 var(--color-dark-gray-p3));
+	--color-soft-dark-gray: color(display-p3 var(--color-soft-dark-gray-p3));
 	--color-bright-hard-light-gray: color(
-		display-p3 var(--bright-hard-light-gray-p3)
+		display-p3 var(--color-bright-hard-light-gray-p3)
 	);
-	--color-hard-light-gray: color(display-p3 var(--hard-light-gray-p3));
-	--color-light-gray: color(display-p3 var(--light-gray-p3));
-	--color-whtie: color(display-p3 var(--whtie-p3));
+	--color-hard-light-gray: color(display-p3 var(--color-hard-light-gray-p3));
+	--color-light-gray: color(display-p3 var(--color-light-gray-p3));
+	--color-whtie: color(display-p3 var(--color-whtie-p3));
 
 	--gradient-blue: linear-gradient(
 		to right top,
