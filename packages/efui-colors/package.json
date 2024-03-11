@@ -1,6 +1,6 @@
 {
   "name": "@efui/colors",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "type": "module",
   "description": "Color palette used in the efUI",
   "main": "colors.css",
