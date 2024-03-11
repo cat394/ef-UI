@@ -7,7 +7,6 @@ export const colors = [...new Set([
 	'light-pink',
 	'beige',
 	'light-beige',
-	'dark-soft-brown',
 	'brown',
 	'dark-navy',
 	'soft-navy',
