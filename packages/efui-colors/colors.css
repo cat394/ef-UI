@@ -41,7 +41,7 @@
 	--color-dark-rose: color(display-p3 var(--color-dark-rose-p3));
 	--color-rose: color(display-p3 var(--color-rose-p3));
 	--color-hard-pink: color(display-p3 var(--color-hard-pink-p3));
-	--color-light-pink: color(display-p3 var(--lcolor-ight-pink-p3));
+	--color-light-pink: color(display-p3 var(--lcolor-light-pink-p3));
 	--color-beige: color(display-p3 var(--color-beige-p3));
 	--color-light-beige: color(display-p3 var(--color-light-beige-p3));
 	--color-dark-soft-brown: color(display-p3 var(--color-dark-soft-brown-p3));
