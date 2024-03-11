@@ -1,0 +1,27 @@
+body {
+  padding: 20px;
+}
+h2 {
+  margin-block: 2rem;
+}
+.color-name {
+  position: absolute;
+  inset: 20px;
+  display: grid;
+  place-content: center;
+  color: #fff;
+  font-size: 1.2rem;
+  text-shadow: 1px 1px 2px black;
+}
+.color-box {
+  --box-size: 150px;
+  --box-padding: 20px;
+  width: var(--box-size);
+  height: var(--box-size);
+  position: relative;
+}
+#colors, #gradients {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(170px, 1fr));
+  gap: 20px;
+}

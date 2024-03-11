@@ -1,0 +1,20 @@
+{
+  "name": "@efui/colors",
+  "version": "0.0.1",
+  "type": "module",
+  "description": "Color palette used in the efUI",
+  "main": "colors.css",
+  "files": [
+    "colors.css"
+  ],
+  "author": "cat394",
+  "license": "MIT",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "devDependencies": {
+    "vite": "^5.1.4"
+  }
+}
